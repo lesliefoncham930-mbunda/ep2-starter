@@ -24,7 +24,7 @@
  */
 #include <Arduino.h>
 
-#define LED_PIN 40
+#define LED_PIN 38
 
 void setup() {
   Serial.begin(115200);
